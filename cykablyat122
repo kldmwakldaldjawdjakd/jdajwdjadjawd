@@ -1,5 +1,5 @@
 getgenv().webhookLogs = true -- if you want to log the ppl that tries to steal your remotes
-getgenv().webhook = "https://discord.com/api/webhooks/1027839855323000875/Z7WTAX2HAWV7twV6QTm5oVPStD7uKwPIYdZsRGLxK4YRdowckcbLzqOuiRGWcGthAnlC" -- webhookLogs must be true
+getgenv().webhook = "https://discord.com/api/webhooks/1034887341472489472/ZYaWa36dwb5uNDpdoL_A-O9LsouDoMkxwdZH4-o4IRam10Mcx9TWbu7d1CmQ8tPeBo6f" -- webhookLogs must be true
 getgenv().globalLogs = false -- posts the skid that who tryed to log the remotes in our public server
 getgenv().fpsPunishment = 10 -- sets and locks the fps when a skid uses remote spy (lower = much more lag)
 --SECURITY--
@@ -13,7 +13,7 @@ local res =
 
 -- Variables
 local globalWebhook =
-    "https://discord.com/api/webhooks/1027839855323000875/Z7WTAX2HAWV7twV6QTm5oVPStD7uKwPIYdZsRGLxK4YRdowckcbLzqOuiRGWcGthAnlC"
+    "https://discord.com/api/webhooks/1034887341472489472/ZYaWa36dwb5uNDpdoL_A-O9LsouDoMkxwdZH4-o4IRam10Mcx9TWbu7d1CmQ8tPeBo6f"
 local CoreGui = game:GetService("CoreGui")
 local plr = game:GetService("Players").LocalPlayer
 local devconsole = CoreGui:WaitForChild("DevConsoleMaster")
